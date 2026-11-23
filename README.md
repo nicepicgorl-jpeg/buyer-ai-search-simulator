@@ -75,7 +75,8 @@ It is a research and analysis workflow, not a visibility button.
 2. Choose a research mode: Simulation, Research or Full Intelligence.
 3. Give the brand name, official website and target market. Optionally add competitors, depth (Quick, Standard or Comprehensive) and intended use (SEO, GEO or content strategy).
 4. Bring any keyword or Search Console exports you want it to use.
-
+---
+---
 Best suited to SEO and GEO specialists, content strategists and agencies running repeatable client research. Output counts are targets, not guarantees: Quick is about 40 queries and 30 AI prompts, and Comprehensive is about 200 and 150.
 ---
 ---
